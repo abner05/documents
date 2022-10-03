@@ -7,3 +7,5 @@ http://commandlinemac.blogspot.com/2008/12/macports-up-and-running.html
 https://tutorialsdojo.com/aws-cheat-sheets-compute-services/
 # Devops Tools 
 https://hostadvice.com/blog/devops-toolbox-jenkins-ansible-chef-puppet-vagrant-saltstack/
+
+# https://github.com/sk3pp3r/cheat-sheet-pdf/blob/master/pdf/cheatsheet-python-grok.pdf
